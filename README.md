@@ -6,24 +6,24 @@
 ## Peko-Lang Is A Programming Language
 Peko-Lang is a new programming language based on python designed just for fun
 
-> Warning
+> warning
 >
 > This project is under development with lots of bugs and few features
 
 ## Get started with Peko-Lang
 ### How To Use
 Clone this repo with the command:
-``` console
+``` text
 git clone https://github.com/miruchigawa/peko-lang.git
 ```
 Make sure you have python version 3.x on your computer
 
 To run it:
-``` console
+``` text
 python3 shell.py
 ```
 or
-``` console
+``` text
 python shell.py
 ```
 ### Create a simple code
