@@ -11,6 +11,7 @@ while True:
   elif code == "copyright":
     print("Copyright (c) 2023 Axuint")
     print("Copyright (c) 2023 Rexuint APP")
+    print("Copyright (c) 2001-2021 Python Software Foundation.")
   else:
     results, error = peko.run("<stdin>", code)
     if error: print(error.as_string())
