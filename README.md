@@ -40,3 +40,6 @@ Peko-Lang >>> 1 + 1
 Peko-Lang >>>
 ```
 
+## Copyright
+- [Axuint ( Creator )](https://miftahfauzan.netlify.app)
+- [Python](https://www.python.org/)
