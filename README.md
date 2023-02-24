@@ -13,22 +13,22 @@ Peko-Lang is a new programming language based on python designed just for fun
 ## Get started with Peko-Lang
 ### How To Use
 Clone this repo with the command:
-``` text
+``` shell
 git clone https://github.com/miruchigawa/peko-lang.git
 ```
 Make sure you have python version 3.x on your computer
 
 To run it:
-``` text
+``` shell
 python3 shell.py
 ```
 or
-``` text
+``` shell
 python shell.py
 ```
 ### Create a simple code
 Try creating an addition and subtraction code
-``` console
+``` shell
 root@localhost:~/peko-lang# python3 shell.py
 Welcome to Peko-Lang 1.8.9 (Fri Feb 24 04:24:20 2023)
 Linux-3.18.31-perf-g89c85bf-aarch64-with-glibc2.29
